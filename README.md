@@ -9,4 +9,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/odinx123?ext=heatmap)
 <img src="https://stats.justsong.cn/api/leetcode/?username=odinx123&theme=light" width="49%" />
 -->
-![Leetcode Stats](https://stats.justsong.cn/api/github?username=songquanpeng)
+![github Stats](https://stats.justsong.cn/api/github?username=odinx123)
