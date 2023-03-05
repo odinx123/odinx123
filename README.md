@@ -7,5 +7,6 @@
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/odinx123?ext=heatmap)
 -->
-https://stats.justsong.cn/api/leetcode/?username=quanpeng
-https://stats.justsong.cn/api/github?username=songquanpeng
+https://stats.justsong.cn/api/leetcode/?username=odinx123
+
+https://stats.justsong.cn/api/github?username=odinx123
