@@ -10,4 +10,4 @@
 -->
 <img src="https://stats.justsong.cn/api/leetcode/?username=odinx123&theme=light" width="50%">
 
-<img src="https://stats.justsong.cn/api/github?username=odinx123" width="50%">
+<img src="https://stats.justsong.cn/api/github?username=odinx123" alt="odinx123" width="50%">
