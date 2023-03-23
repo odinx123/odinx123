@@ -11,3 +11,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/odinx123?ext=heatmap)
 <img src="https://stats.justsong.cn/api/leetcode/?username=odinx123&theme=light" width="49%" />
 -->
+[![odin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=odinx123&theme=github)]
