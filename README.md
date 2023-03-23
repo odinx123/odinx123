@@ -3,7 +3,7 @@
 - 🔭 I’m currently a student.
 - 📫 Email: odinhsiu68@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=odinx123&left_color=green&right_color=red)
 
 <img src="https://leetcard.jacoblin.cool/odinx123?theme=unicorn" />
 <!--
