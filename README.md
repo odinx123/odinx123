@@ -12,4 +12,4 @@
 <img src="https://stats.justsong.cn/api/leetcode/?username=odinx123&theme=light" width="49%" />
 -->
 
-[![odin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=odinx123&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![odin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=odinx123&theme=dracula)]()
