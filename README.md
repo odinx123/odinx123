@@ -2,6 +2,7 @@
 
 <!-- - 🔭 I’m currently a student. -->
 - 📫 Email: odinhsiu68@gmail.com
+- School: 高雄科技大學
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=odinx123&left_color=green&right_color=red) -->
 
