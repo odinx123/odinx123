@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently a student. -->
-- 📫 Email: odinhsiu68@gmail.com
+- 📫 Email: odinhsiu68@gmail.com </br>
 &emsp;&emsp;&emsp;&emsp;&thinsp; C110152318@nkust.edu.tw
 
 
