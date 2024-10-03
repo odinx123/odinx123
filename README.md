@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently a student. -->
 - 📫 Email: odinhsiu68@gmail.com
-- &emsp;&emsp;&emsp;&emsp;&thinsp; C110152318@nkust.edu.tw
+&emsp;&emsp;&emsp;&emsp;&thinsp; C110152318@nkust.edu.tw
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=odinx123&left_color=green&right_color=red) -->
