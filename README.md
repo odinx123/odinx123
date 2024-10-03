@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently a student. -->
-- 📫 Email: odinhsiu68@gmail.com
+- 📫 Email: C110152318@nkust.edu.tw | odinhsiu68@gmail.com
+
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=odinx123&left_color=green&right_color=red) -->
 
